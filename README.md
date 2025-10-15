@@ -14,6 +14,5 @@ Kaggle dataset: https://www.kaggle.com/competitions/quest-dice-predictive-projec
 - Collaborated with the team to design the workflow and validate model performance.  
 
 ### Results:
-- Generated predicted purchase probabilities for the test set.  
-- Achieved 94% accuracy on the test set.  
+- Generated predicted purchase probabilities and achieved 94% accuracy on the test set.  
 - Demonstrated ability to manage the end-to-end machine learning workflow, from raw data to actionable predictions.  
